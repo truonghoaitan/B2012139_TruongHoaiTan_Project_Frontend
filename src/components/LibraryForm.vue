@@ -69,17 +69,7 @@
 			/>
 			<ErrorMessage name="text" class="error-feedback" />
 		</div>
-		<!-- <div class="form-group form-check">
-			<input
-				name="favorite"
-				type="checkbox"
-				class="form-check-input"
-				v-model="libraryLocal.favorite"
-			/>
-			<label for="favorite" class="form-check-label">
-				<strong>Sách yêu thích</strong>
-			</label>
-		</div> -->
+		
 		<div class="form-group">
 			<button class="btn btn-custom-save">Lưu</button>
 			<button

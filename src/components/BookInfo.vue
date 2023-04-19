@@ -37,13 +37,7 @@ export default {
 		</div>
 		
 	</div>
-	
-	<!-- <div class="p-1">
-		<strong>Like:&nbsp;</strong>
-		<i v-if="library.favorite" class="ti-check"></i>
-		<i v-else class="ti-close"></i>
-		{{ library.favorite }}
-	</div> -->
+
 </div>
 </template>
 <style scoped>

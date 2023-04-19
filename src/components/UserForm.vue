@@ -43,41 +43,7 @@
 			/>
 			<ErrorMessage name="phone" class="error-feedback" />
 		</div>
-		<!-- <div class="form-group">
-			<label for="phar">Mô tả</label>
-			<Field
-				name="phar"
-				as="textarea"
-				type="text"
-				rows="10"
-				class="form-control text-ctrl"
-				v-model="userLocal.phar"
-			/>
-			<ErrorMessage name="phar" class="error-feedback" />
-		</div>
-		<div class="form-group">
-			<label for="text">Nội dung</label>
-			<Field
-				name="text"
-				as="textarea"
-				type="text"
-				rows="20"
-				class="form-control text-ctrl"
-				v-model="userLocal.text"
-			/>
-			<ErrorMessage name="text" class="error-feedback" />
-		</div> -->
-		<!-- <div class="form-group form-check">
-			<input
-				name="favorite"
-				type="checkbox"
-				class="form-check-input"
-				v-model="userLocal.favorite"
-			/>
-			<label for="favorite" class="form-check-label">
-				<strong>Sách yêu thích</strong>
-			</label>
-		</div> -->
+		
 		<div class="form-group">
 			<button class="btn btn-custom-save">Lưu</button>
 			<button
