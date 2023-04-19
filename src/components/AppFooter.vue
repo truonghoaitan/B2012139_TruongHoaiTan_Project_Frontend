@@ -8,7 +8,7 @@
            
             <p class="footer-phar addre">
                
-				Chào mừng bạn đến với Huynz Library, Huynz Library là một nền tảng nội dung số trên internet, nơi thành viên có thể tự do xuất bản những nội dung tiếng Việt như: Tiểu tHuynzết, light novel, truyện ngắn hoặc thơ văn khác. Với những chức năng được cải tiến liên tục, Huynz Library sẽ mang lại cho Tác giả sáng tác truyện, Dịch giả đăng truyện và Người đọc truyện online những trải nghiệm tuyệt vời nhất. Đừng ngại đăng ký tài khoản tại Huynz Library, chỉ mất 30s và hoàn toàn miễn phí.
+				Chào mừng bạn đến với HuynhZ Library, HuynhZ Library là một nền tảng nội dung số trên internet, nơi thành viên có thể tự do xuất bản những nội dung tiếng Việt như: Tiểu tHuynhZết, light novel, truyện ngắn hoặc thơ văn khác. Với những chức năng được cải tiến liên tục, HuynhZ Library sẽ mang lại cho Tác giả sáng tác truyện, Dịch giả đăng truyện và Người đọc truyện online những trải nghiệm tuyệt vời nhất. Đừng ngại đăng ký tài khoản tại HuynhZ Library, chỉ mất 30s và hoàn toàn miễn phí.
 			</p>
         </div>
         
