@@ -1,4 +1,4 @@
-import createApiClient from "./api.service"; sdff
+import createApiClient from "./api.service";
 class LibraryService {
 	constructor(baseUrl = "/api/libraries") {
 		this.api = createApiClient(baseUrl);

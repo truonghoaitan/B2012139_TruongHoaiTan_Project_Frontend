@@ -1,4 +1,4 @@
-import axios from "axios";đsdf
+import axios from "axios";
 const commonConfig = {
 headers: {
 	"Content-Type": "application/json",
